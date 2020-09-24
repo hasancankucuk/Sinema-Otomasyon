@@ -1,0 +1,62 @@
+c:\users\hasan can\source\repos\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\Sinema Otomasyonu.exe.config
+c:\users\hasan can\source\repos\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\Sinema Otomasyonu.exe
+c:\users\hasan can\source\repos\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\Sinema Otomasyonu.pdb
+c:\users\hasan can\source\repos\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema Otomasyonu.csprojResolveAssemblyReference.cache
+c:\users\hasan can\source\repos\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema_Otomasyonu.Form1.resources
+c:\users\hasan can\source\repos\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema_Otomasyonu.Properties.Resources.resources
+c:\users\hasan can\source\repos\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema Otomasyonu.csproj.GenerateResource.cache
+c:\users\hasan can\source\repos\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema Otomasyonu.csproj.CoreCompileInputs.cache
+c:\users\hasan can\source\repos\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema Otomasyonu.exe
+c:\users\hasan can\source\repos\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema Otomasyonu.pdb
+c:\users\hasan can\source\repos\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema_Otomasyonu.Form2.resources
+c:\users\hasan can\source\repos\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\Kullanici.accdb
+c:\users\hasan can\source\repos\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\Biletler.accdb
+C:\Users\Hasan Can\source\repos\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema_Otomasyonu.Form3.resources
+C:\Users\Hasan Can\Desktop\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\Sinema Otomasyonu.exe.config
+C:\Users\Hasan Can\Desktop\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\Sinema Otomasyonu.exe
+C:\Users\Hasan Can\Desktop\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\Sinema Otomasyonu.pdb
+C:\Users\Hasan Can\Desktop\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema Otomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\Hasan Can\Desktop\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema_Otomasyonu.Form1.resources
+C:\Users\Hasan Can\Desktop\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema_Otomasyonu.Form2.resources
+C:\Users\Hasan Can\Desktop\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema_Otomasyonu.Form3.resources
+C:\Users\Hasan Can\Desktop\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema_Otomasyonu.Properties.Resources.resources
+C:\Users\Hasan Can\Desktop\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema Otomasyonu.csproj.GenerateResource.cache
+C:\Users\Hasan Can\Desktop\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Hasan Can\Desktop\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema Otomasyonu.exe
+C:\Users\Hasan Can\Desktop\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema Otomasyonu.pdb
+C:\Users\Hasan Can\Desktop\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema_Otomasyonu.Form4.resources
+C:\Users\Hasan Can\Desktop\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema_Otomasyonu.Form5.resources
+C:\Users\Hasan Can\Desktop\Sinema Otomasyonu\Sinema Otomasyonu\bin\Debug\Database31.accdb
+C:\Users\Hasan Can\Desktop\Sinema Otomasyonu\Sinema Otomasyonu\obj\Debug\Sinema_Otomasyonu.Form7.resources
+C:\Users\Hasan Can\Desktop\17-155-002 Hasan Can Küçük\Sinema Otomasyonu\bin\Debug\Database31.accdb
+C:\Users\Hasan Can\Desktop\17-155-002 Hasan Can Küçük\Sinema Otomasyonu\bin\Debug\Sinema Otomasyonu.exe.config
+C:\Users\Hasan Can\Desktop\17-155-002 Hasan Can Küçük\Sinema Otomasyonu\bin\Debug\Sinema Otomasyonu.exe
+C:\Users\Hasan Can\Desktop\17-155-002 Hasan Can Küçük\Sinema Otomasyonu\bin\Debug\Sinema Otomasyonu.pdb
+C:\Users\Hasan Can\Desktop\17-155-002 Hasan Can Küçük\Sinema Otomasyonu\obj\Debug\Sinema Otomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\Hasan Can\Desktop\17-155-002 Hasan Can Küçük\Sinema Otomasyonu\obj\Debug\Sinema_Otomasyonu.Form1.resources
+C:\Users\Hasan Can\Desktop\17-155-002 Hasan Can Küçük\Sinema Otomasyonu\obj\Debug\Sinema_Otomasyonu.Form3.resources
+C:\Users\Hasan Can\Desktop\17-155-002 Hasan Can Küçük\Sinema Otomasyonu\obj\Debug\Sinema_Otomasyonu.Form4.resources
+C:\Users\Hasan Can\Desktop\17-155-002 Hasan Can Küçük\Sinema Otomasyonu\obj\Debug\Sinema_Otomasyonu.Form5.resources
+C:\Users\Hasan Can\Desktop\17-155-002 Hasan Can Küçük\Sinema Otomasyonu\obj\Debug\Sinema_Otomasyonu.Form2.resources
+C:\Users\Hasan Can\Desktop\17-155-002 Hasan Can Küçük\Sinema Otomasyonu\obj\Debug\Sinema_Otomasyonu.Form7.resources
+C:\Users\Hasan Can\Desktop\17-155-002 Hasan Can Küçük\Sinema Otomasyonu\obj\Debug\Sinema_Otomasyonu.Properties.Resources.resources
+C:\Users\Hasan Can\Desktop\17-155-002 Hasan Can Küçük\Sinema Otomasyonu\obj\Debug\Sinema Otomasyonu.csproj.GenerateResource.cache
+C:\Users\Hasan Can\Desktop\17-155-002 Hasan Can Küçük\Sinema Otomasyonu\obj\Debug\Sinema Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Hasan Can\Desktop\17-155-002 Hasan Can Küçük\Sinema Otomasyonu\obj\Debug\Sinema Otomasyonu.exe
+C:\Users\Hasan Can\Desktop\17-155-002 Hasan Can Küçük\Sinema Otomasyonu\obj\Debug\Sinema Otomasyonu.pdb
+\\Mac\Home\Desktop\c#\17-155-002 Hasan Can Küçük\Sinema Otomasyonu\bin\Debug\Database31.accdb
+\\Mac\Home\Desktop\c#\17-155-002 Hasan Can Küçük\Sinema Otomasyonu\bin\Debug\Sinema Otomasyonu.exe.config
+\\Mac\Home\Desktop\c#\17-155-002 Hasan Can Küçük\Sinema Otomasyonu\bin\Debug\Sinema Otomasyonu.exe
+\\Mac\Home\Desktop\c#\17-155-002 Hasan Can Küçük\Sinema Otomasyonu\bin\Debug\Sinema Otomasyonu.pdb
+\\Mac\Home\Desktop\c#\17-155-002 Hasan Can Küçük\Sinema Otomasyonu\obj\Debug\Sinema Otomasyonu.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\c#\17-155-002 Hasan Can Küçük\Sinema Otomasyonu\obj\Debug\Sinema_Otomasyonu.Form1.resources
+\\Mac\Home\Desktop\c#\17-155-002 Hasan Can Küçük\Sinema Otomasyonu\obj\Debug\Sinema_Otomasyonu.Form3.resources
+\\Mac\Home\Desktop\c#\17-155-002 Hasan Can Küçük\Sinema Otomasyonu\obj\Debug\Sinema_Otomasyonu.Form4.resources
+\\Mac\Home\Desktop\c#\17-155-002 Hasan Can Küçük\Sinema Otomasyonu\obj\Debug\Sinema_Otomasyonu.Form5.resources
+\\Mac\Home\Desktop\c#\17-155-002 Hasan Can Küçük\Sinema Otomasyonu\obj\Debug\Sinema_Otomasyonu.Form2.resources
+\\Mac\Home\Desktop\c#\17-155-002 Hasan Can Küçük\Sinema Otomasyonu\obj\Debug\Sinema_Otomasyonu.Form7.resources
+\\Mac\Home\Desktop\c#\17-155-002 Hasan Can Küçük\Sinema Otomasyonu\obj\Debug\Sinema_Otomasyonu.Properties.Resources.resources
+\\Mac\Home\Desktop\c#\17-155-002 Hasan Can Küçük\Sinema Otomasyonu\obj\Debug\Sinema Otomasyonu.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\c#\17-155-002 Hasan Can Küçük\Sinema Otomasyonu\obj\Debug\Sinema Otomasyonu.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\c#\17-155-002 Hasan Can Küçük\Sinema Otomasyonu\obj\Debug\Sinema Otomasyonu.exe
+\\Mac\Home\Desktop\c#\17-155-002 Hasan Can Küçük\Sinema Otomasyonu\obj\Debug\Sinema Otomasyonu.pdb
